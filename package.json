@@ -1,6 +1,7 @@
 {
   "name": "word-counter",
   "version": "0.1.0",
+  "homepage": "http://rijulJain25.github.io/Ethnus_React_Task1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
